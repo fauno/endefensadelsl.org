@@ -16,6 +16,11 @@ el producto de relaciones sociales de producción determinadas, es decir, de un
 momento histórico y de formas de producir e interactuar particulares.  La
 tecnología no es un desarrollo ahistórico, autónomo.
 
+Las interfaces de usuario, en este sentido, son configuraciones sociales
+y políticas que determinan nuestra interacción con la tecnología de la
+información y la comunicación. ¿Por qué no hay tecnologías _de la
+socialización_? 
+
 ¿Por qué interfaces libres, si ya tenemos Software Libre? El software libre,
 como las redes y la cultura libres, es la infraestructura para las interfaces
 libres.  El Software Libre, al permitir la circulación de conocimiento ha
