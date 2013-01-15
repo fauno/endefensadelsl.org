@@ -6,30 +6,41 @@ Introducción
 
 Necesitamos interfaces que nos hagan libres.  Formas de interactuar con la
 tecnología que no reproduzcan relaciones sociales verticalistas, jerárquicas,
-que esconden nuestra producción cognitiva como si la hiciera otro.  Necesitamos
-interfaces que faciliten relaciones sociales horizontales, de pares libres;
-interfaces que generen subjetividades colectivas.
+que se apropian de nuestra producción cognitiva como si fuese realizada por
+otro.  Necesitamos interfaces que faciliten y provoquen relaciones sociales
+horizontales, entre pares libres; interfaces que generen subjetividades
+colectivas y participativas acordes con el modo de producción de pares.
 
-Uno de los presupuestos de este artículo es que la neutralidad tecnológica no
-es tal.  Antes bien, la tecnología, al igual que cualquier actividad humana, es
-el producto de relaciones sociales de producción determinadas, es decir, de un
-momento histórico y de formas de producir e interactuar particulares.  La
-tecnología no es un desarrollo ahistórico, autónomo.
+Uno de los presupuestos de este artículo es que la llamada neutralidad
+tecnológica no es tal.  Antes bien, la tecnología al igual que cualquier
+actividad humana, es el producto de relaciones sociales de producción
+determinadas, es decir, de un momento histórico y de formas de producir
+e interactuar particulares.  La tecnología no es un desarrollo ahistórico,
+autónomo, realizado sobre sí mismo, sino que está determinada por nuestra
+situación histórica y en tanto tal, nos determina al interactuar o ser
+interactuados a través de ella.  El fetichismo de la mercancía se convierte en
+fetichismo de la red social: la plataforma es la red.
+
+Pero si la tecnología es capaz de hacer y determinar la política, lejos de
+darle una connotación negativa tenemos que subvertir la tecnocracia
+tecnoutópica para poner a la tecnología a reproducir nuestra política,
+a representar nuestra formas de relacionarnos entre pares.
+
 
 Las interfaces de usuario, en este sentido, son configuraciones sociales
 y políticas que determinan nuestra interacción con la tecnología de la
-información y la comunicación. ¿Por qué no hay tecnologías _de la
-socialización_? 
+información y la comunicación. ¿Pero por qué no tecnologías _de la
+socialización y la revolución_? ¿Podemos crear interfaces contrahegemónicas?
+¿Podemos crear interfaces acordes a prácticas sociales liberadoras?
 
-¿Por qué interfaces libres, si ya tenemos Software Libre? El software libre,
+¿Por qué interfaces libres, si ya tenemos Software Libre?  El software libre,
 como las redes y la cultura libres, es la infraestructura para las interfaces
 libres.  El Software Libre, al permitir la circulación de conocimiento ha
 formado un modo de producción específico, pero no enteramente contrahegemónico.
 
 Muchas veces, y especialmente en el software libre que facilita interacción
-social pero no necesariamente, seguimos reproduciendo relaciones sociales no
-igualitarias, diría que reproducimos relaciones entre administrador
-y administrado.
+social, reproducimos relaciones sociales no igualitarias, reproducimos
+relaciones entre administradores y administrados.
 
 Tomando como ejemplo las listas de correo, siendo GNU Mailman el software más
 utilizado, podemos observar que existen varios roles de usuarios y varios tipos
@@ -70,9 +81,22 @@ _local_[^sneakernet].  Las terminales, como dice Moglen, son computadoras
 totalmente desempoderadas viviendo en los bordes de la red.
 
 [^sneakernet]: En el mejor de los casos usando una memoria USB, supervivencia
-de la vieja _sneakernet_ o red a pata.
+de la vieja _sneakernet_ o _red a pata_.
 
+(Otra palabra clave es codificar, las interfaces codifican relaciones sociales
+estereotipadas/naturalizadas)
 
+Existen al menos dos posibilidades no contradictorias:
 
+* Reinterpretar las interfaces ya existentes, haciendo un esfuerzo crítico por
+  encontrarles la vuelta "horizontalizante", es decir aplicar un _misuse_
+  positivo, una subversión constante y creativa sobre sus configuraciones
+  potenciales, comprendiendo que una herramienta es liberadora cuando se la
+  pone en situación.
+
+* Pensar, diseñar, desarrollar interfaces y patrones de interfaz horizontales,
+  democráticas, participativas; que tengan, imbuidas/embebidas, las relaciones
+  sociales que consideramos buenas y bellas y esto significa, correrse de la
+  consabida díada administrador/administrado.
 
 Busquemos el verticalismo en el software y arreglémoslo.
