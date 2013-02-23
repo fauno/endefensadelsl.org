@@ -39,6 +39,15 @@ struggles will as always be necessary to conquer new rights and to
 reorient this new system towards our emancipation and a more sustainable
 economy. Nothing will happen by itself.
 
+Es por razones materiales, conectadas a la reproducción de las fuerzas productivas, que el 
+sistema productivo es forzado a cambiar radicalmenente, igualmente como es
+por razones conectadas a la reproduccion material que este sistema tendrá que integrar
+límites ecologicos, favoreciendo la relocalizacion de la economía. Si la 
+salida de la sociedad del trabajo asalariado ya ha empezado, es por el momento
+en nuestro detrimento, a través de la destrucción del Bienestar social
+y la explosion de la precariedad. Las luchas sociales siempre serán necesarias
+para conquistar nuevos derechos y para reorientar este nuevo systema hacia nuestra
+emancipación y un economía más sustentable. Nada pasará por si mismo.
 
 It is in any case within this material framework that our action can be
 decisive, far from any utopia or value subjectivism. “New technologies”
@@ -51,8 +60,22 @@ suffice; the new productive relationships and new arrangements must
 operate as a system (of production, distribution, circulation) by
 ensuring their reproduction.
 
+Es dentro de este marco material que nuestra acción puede ser decisiva,
+lejos de las utopias o "value subjetivism" (valor asignado por consenso?).
+"Las Nuevas Tecnologías" ocupan un lugar central, comparable con el del motor
+a vapòr. Sin embargo, no es solamente el materialismo de reproducción y de técnicas,
+los cuales hay que tener en cuenta, sino que tambien los flujos que constituyen
+a la produccion como todo un sistema. Para abandonar el productivismo capitalista
+y su modelo industrial, ni iniciativas aisladas ni medidas parciales van a alcanzar;
+las nuevas relaciónes productivas y los nuevos convenios deben funcionar como un
+sistema (de producción, distribución y circulación) por medio de asegurar su reproducción.
+
 What is a system of production?
 -------------------------------
+
+¿Qué es un sistema de producción?
+---------------------------------
+
 
 The systemic crisis concretely expresses everything that materially
 connects us to the rest of the world, whether we like it or not.
@@ -77,6 +100,26 @@ to productive organization as well as to the stage of technical
 development. Capitalism differentiated itself from feudalism as well as
 from a predatory economy by being a mode of production determined by
 circulation, industrial investment and waged work.
+
+La crisis sistemica se expresa en todo lo que materialmente nos conecta con el 
+resto del mundo, sea que nos guste o no.
+La economía poilitica en si misma naci de la inflación causada por el influjo de 
+oro desde "las Americas" al final del siglo XVI, como fue señalado en ese momento
+por Jean Dodin, demostrando la influencia de eventos remotos que son completamente 
+independientes de nosotros. El mercantilismo inicialmente intento responder a este tipo
+de "catástrofe natural" acumulando la mayor cantidad de metales preciosos posibles, pero
+la intensificación del comercio mundial que se produjo ya estaba reforzando las interdependencias.
+Fue necesario esperar hasta 1758 al Doctor Quesnay para que muestre, con su "tabla económica",
+la analogía entre circuitos económicos y el sistema circulatorio, conectando clases sociales
+y miembros distantes en una totalidad que hace a los elementos interdependientes. Luego, otros
+intentaron reducir los flujos economicos a su equilibrio termodinámico (teorias del equilibrio y
+de la autoregulación del mercado). Al contrario, uno puede considerar que la principal contribución 
+de Marx habría sido mostrar que la producción era de hecho organizada como un sistema, combinando
+producción, reproducción y circulación, un sistema con su propia dinámica (basada en la ganancia
+y la inovación), son relaciones de producción especificas (trabajo asalariado) adaptadas 
+a organizaciones productivas, así como al nivel de desarrollo técnico. El capitalismo se diferenció 
+del feudalismo, como de la economía predatoria, siendo un modo de producción determinado
+por la circulación, inversiones industriales y el trabajo asalariado.
 
 That production and reproduction inevitably compose a system does not
 mean that there is only one system, albeit a dominant one! It is vital
