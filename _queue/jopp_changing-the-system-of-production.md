@@ -134,6 +134,24 @@ terms of systems, circuits, flow, interdependencies, organisation,
 division of functions, coordination, etc, where autonomy and
 self-organization play in any case an irreplaceable role of adjustment.
 
+Esa producción y reproducción inevitablemente compone un sisttema, lo que 
+no significa que hay sólo un sistema, aunque sí uno dominante! Es vital
+entender el hecho de que pertenecemos a una pluralidad de sistemas, totalidades
+efectivas que nos determinan materialemnte mas de lo que nosotros las determinamos
+a ellas, pero en las grietas entre ellas nosotros podemos funcionar. De hecho,
+contra el evangelismo individualista contemporaneo, un sistema se define por
+las operaciones relativamente independientes de elementos que la constituyen.
+No hay individuo aislado, que pueda evitar ser integrado a un sistema del cual 
+depende y el cual lo limita, como puede ser el sistema de transporte.
+El concepto aplica mas allá del reino de la producción, hasta los ecosistemas
+exibiendo interdependencias entre especias y flujos de materia, de energía e información
+que corre a traves de ellos. En su maravilloso libro "Lo Macroscópico", Joel de Rosnay (1979)
+aplico la teoría de sistema a la económia y a la biosfera, conduciendo a lo que él llamó
+un ecosocialismo. Pensando de una manera global no significa necesariamente 
+pensar en terminos de sistemas, circuitos, flujos, interdependencias, organisación,
+división de fucniones, coordinación, etc., donde la autnomía y la auto-organisación
+juega en cualquier caso un role de ajuste irreplicable.
+
 The totalitarian tendency of markets, with their liberal theories which
 do not recognize any value to non-commercial phenomena, has driven the
 fact that we belong to different systems of production into the
@@ -143,6 +161,15 @@ very least domestic, public and commercial exchanges coexist. This is
 precisely what made it possible for capitalism to emerge from the free
 cities on the margins of the feudal system, just like today a new
 alternative system based on relocalistion should emerge.
+
+La tendencia totalitaria de los mercados, con sus teorías liberales que no
+reconocen el valor de los fenómenos no comerciales, ha conducido el hecho de 
+que pertenecemos a distintos sistemas de producción hacia un segundo plano. 
+Sin embargo, es un hecho que no hay tal cosa como una economía que no sea una
+economía mezclada, una economía plural, donde coexisten al menos intercambios domesticos,
+públicos y comerciales. Esto es precisamente lo que hizo posible que el capitalismo 
+emerja de las ciudades libres en los margenes del sistema feudal, de igual manera en que
+hoy un nuevo sistema alternativo basado en la relocalisación debiera emerger.
 
 What is important to understand is that it is useless to want to leave a
 system of production if one is unable to propose a viable alternative
@@ -158,8 +185,24 @@ unfortunately, by those who want to change the system (it is not enough
 to take control of it to change its operations), nor by those who simply
 want to correct it with norms and laws.
 
+Es importante entender que es inútil querer salir de un sistema de producción 
+si uno nopuede proponer un sistema alternativo viable. Es por lo tanto crucial ser efectivo,
+y no proponer simples correciones, mucho menos indicarle a las personas los errores de sus modos.
+Necesitamos nnuevas reglas, nuevas relaciones sociales, nuevos modos de distribución
+e intercambios que no sólo deben conectarse juntos sino que también tener un dinamismo interno
+y una sinergía con las técnicas utilizadas. Es una cuestión de viabilidad, de durabilidad
+y reproducción, donde la ecología obviamente se vuelve la preocupación central.
+Estas interdependencias limitan fuertemente lo que es concretable pero no suelen ser
+suficientemente tomadas en cuenta, desafortunadamente, por aquellos que quieren cambiar el sistema
+(no es suficiente tomar el control del mismo para cambiar sus operaciones), ni por aquellos que 
+simplemente quieren corregirlo con normas y leyes.,
+
+
 Capitalism as productivism
 --------------------------
+
+El capitalismo como un productivismo
+------------------------------------
 
 Of course all systems are not equal, being distinguished by their means
 and ends. However a system does not become dominant because of its good
@@ -174,6 +217,17 @@ loop, a true snowball effect, lies at the root of the takeoff of
 economies and of the “virtuous circle of growth”, a galloping
 industrialization which must be paid a high price in terms of
 inequalities, poverty and pollution.
+
+Por supuesto que todos los sistemas no son iguales, siendo distinguidos por sus medios
+y sus fines. Sin embargo un sistema no deviene dominante porque es bienintensionado
+sino que por sus efectividad material, por sus capacidades de reproducción y expansión,
+de acuerdo a una lógica Darwiniana amplia (que no debe ser confundida con un reduccionista
+Darwinismo Social). Lo que hiso al capitalimos exitoso fue su productivismo que presenta ganancias
+dependientes a la mejora de la productividad resultado de inversiones e inovaciones, que a su vez
+se apoyan en avances tecnológicos y cieníficos para disminuir el precio de los bienes. Este ciclo de
+retroalimentacíon positiva, un verdadero efecto de bola de nieve, subyace en la raiz del despegue de las
+economías y del "circulo virtuoso de crecimiento", una galopante industralizacion que debe ser 
+pagada en un alto precio en los aspectos de desigualdades, pobreza y polución.
 
 The reasons for the success of an invasive organism or of an overly
 voracious predator inevitably turns back against it when it has
@@ -192,6 +246,21 @@ order to achieve this, we should not go backwards but instead take
 advantage of the immaterial economy, which can help with material
 degrowth, and especially to draw on the productive forces which enter in
 contradiction with the very bases of capitalism.
+
+Los motivos del éxito de un organismo invasivo o de un extremadamente voraz
+predador inevitablemente se vuelven en su contra cuando ha colonizado todo el
+espacio donde vivir. Aunque Africa, queda todavia para ser explotada, podemos decir
+que el capitalismo ha llegado a su límite ecológico con la globalisación, lo que la deja sin
+un "afuera". El problema es que no puede frenar su carrera hacia el crecimiento. Podemos decir
+que el capitalismo inicialmente se impuso a traves de su productividad pero a durado
+gracias a la sociedad de consumo, la que es obviamente ecologicamente insostenible.
+El decrecimiento material es por lo tanto inevitable, pero no es suficiente enunciar que 
+ese es el caso, ni exibir voluntarismo en la reduccion de nuestro consumo y tiempo de trabajo
+con la esperanza de significativamente reducir un productivismo que es en su núcleo un capitalismo
+crecimiento-dependiente. Necesitamos realmente cambiar el sistema! Para lograr esto, no necesitamos 
+ir para atras, sino que tomar ventaja de la economía inmaterial, que puede ayudar con el decrecimiento
+material, y especialmente para dar forma a las fuerzas productivas que entran en 
+contradicción con las propias bases del capitalismo.
 
 Indeed, capitalism is first and foremost industry. Wage-labor is a kind
 of temporary slavery (subordination) but the fact of paying work
@@ -220,6 +289,27 @@ the benefit of a pure opportunity value (or of prestige, of brand, or
 speculation), which is often quite ephemeral and which has only a
 distant connection to its reproduction value (except perhaps when it is
 on sale).
+
+De hecho el capitalismo es primero y mas que nada industria. El trabajo asalariado es un tipo
+de esclavitud temporaria (subordinación) pero el hecho de que el trabajo se paga 
+de acuerdo al tiempo gastado (tiempo de máquina) es escencial para separar a los 
+trabajadores de sus productos y para apropiarse la plusvalía obtenida por el 
+mejoramiento de la productividad de inversiones capitalistas. Sin embargo, el trabajo inmaterial
+puede ser caracterizado por su no linealidad, como la producción no es proporcional al tiempo gastado.
+Esto es lo que se opone al trabajo físico, del mismo modo que la información se opone a la energía.
+En la misma manera, cuanto mas habilidad requiere un trabajo, incorporando tiempo de entrenamiento, menos
+es reducible a trabajo inmediato, asi como el tiempo de trabajo de un Virtuoso no se reduce al concierto.
+Por todas estas razones, la remuneracion por tiempo gastado se vuelve inaplicable (como pasa en el campo artistico)
+requiriendo una evaluacion posterior basada en los resultados. Esto pareceria resultar en la abolicion de la 
+separacion entre los trabajadores y sus productos, los cuales podrian proclamar que ahora poseen sus propios medios
+de produccion  con sus computadoras personales. Excepto que es muy dificil evaluar la contribucion individual en 
+actividades que son principalente globales y colectivas. Entonces, no solamente el trabajo asalariado a partir del 
+tiempo gastado se vuelve completamente inapropiado en la era de la informacion, siendo progresivamente remplacado
+por contratos por proyecto y "outsourcing", sino que es la medida del valor en si misma la que se vuelve problematica
+(la gente de "crisis de medicion"). Las "commodity" pierden entonces su estatus de valor de intercambio, para 
+el beneficio de un valor de oportunidad (o de prestigio, o marca, o especulacion), el cual suele ser bastante 
+efimero y que tiene solamente una conexion distante con su valor de reproduccion (exceptuando quizas cuando esta en
+venta).
 
 “As soon as work, in its immediate form, has ceased to be the main
 source of wealth, working time ceases and must cease to be its measure,
