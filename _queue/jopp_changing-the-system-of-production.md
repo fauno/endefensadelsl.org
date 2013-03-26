@@ -3,8 +3,14 @@ http://peerproduction.net/issues/issue-1/invited-comments/changing-the-system-of
 Changing the system of production
 =================================
 
+Cambiando el sistema de producción
+==================================
+
 By Jean Zin
 -----------
+
+Por Jean Zin
+------------
 
 The economic and financial crisis, serious as it may be, will not
 provoke the end of capitalism which has weathered worse. But if an exit
@@ -13,6 +19,14 @@ profound and more durable, and which are linked to our entry into the
 digital era and immaterial labor. It is these new productive forces
 which question the very basis of industrial capitalism, such as payment
 for wage labor or exchange value.
+
+La crisis económica y financiera, por mas seria que sea, no provocará el 
+final del capitalismo, el cual ha sobrevivido peores. Pero si ha coenzado
+una salida del capitlasimo, es por otras razones, las cuales son mas profuandas
+y mas durables, y las cuales estan vinculadas a nuestra entrada en la era digital
+y trabajo inmaterial. Son estas nuevas fuerzas productivas las que
+cuestionan las bases del capitalismo industrial, tales como el pago por 
+el trabajo asalariado o el valor de intercambio.
 
 It is for material reasons, connected to the reproduction of productive
 forces, that the production system is forced to change radically, just
@@ -24,6 +38,7 @@ of welfare protections and the explosion of precariousness. Social
 struggles will as always be necessary to conquer new rights and to
 reorient this new system towards our emancipation and a more sustainable
 economy. Nothing will happen by itself.
+
 
 It is in any case within this material framework that our action can be
 decisive, far from any utopia or value subjectivism. “New technologies”
